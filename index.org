@@ -1,0 +1,8 @@
+#+title: Home | Hufoe
+
+#+attr_html: :width 25%
+[[./logo.png]]
+
+*Hufoe* is a computing research group.
+
+Projects are underway and will be listed here when ready.

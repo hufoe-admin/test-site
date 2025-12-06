@@ -3,6 +3,9 @@
 #+attr_html: :width 25%
 [[./logo.png]]
 
-*Hufoe* is a computing research group.
+*Hufoe* is a computing research and development non-profit.\\
+We build engineering tools for functional languages.
 
-Projects are underway and will be listed here when ready.
+** Software
+
+- [[https://github.com/hufoe/settings.el][settings.el]] - system settings control panel for Emacs
